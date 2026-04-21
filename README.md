@@ -1,4 +1,3 @@
-README
 👋 Hi, I'm Tanishka Singh
 💻 Full Stack Developer | 🚀 Tech Enthusiast
 
